@@ -48,6 +48,66 @@ func main() {
 }
 ```
 
+
+
+
+
+
+
+
+
+<br><br>
+
+[Detailed Menu](./menu.md)
+
+### 🟢 Beginner: Core Language Fundamentals
+
+  - Setting up Go Environment
+  - Basic Syntax
+  - Variables and Constants
+  - Primitive Data Types
+  - Control Structures
+  - Functions
+  - Error Handling
+
+### 🟡 Intermediate: Data Structures and Functional Features
+
+  - Arrays and Slices
+  - Maps
+  - Structs
+  - Pointers
+  - Interfaces
+  - Packages and Modules
+
+### 🟠 Advanced: Concurrency, Testing, and More
+
+  - Goroutines
+  - Channels
+  - Concurrency Patterns
+  - Error Handling Patterns
+  - Testing
+  - Reflection
+  - JSON and Data Encoding
+
+### 🔵 Expert: Tooling, Performance, and Best Practices
+
+  - Go Tooling
+  - Build and Deployment
+  - Web Development
+  - Database Access
+  - Common Go Patterns
+  - Go Generics (1.18+)
+
+
+
+
+
+
+
+
+
+<br><br>
+
 ### How to run:
 
   - Save it to a file, e.g.,`main.go`.
