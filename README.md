@@ -1,0 +1,2 @@
+# Go
+Notes for Go
